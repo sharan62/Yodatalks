@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    border: 0;
+    border-radius: 0;
+    background: black;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.head{ background: yellowgreen;
+    display: grid;
+  
+    text-align: center;
+    
+}
+.foot{
+    height: 80px;;
+    text-align: center;
+    background: yellowgreen;
+    margin-top: 50%; 
+}
+.pad{
+    padding-top: 4rem; 
+  
+
+}
+.area{
+    display: grid;
+    text-align: center;
+    width: 90%;
+    height: 70px;
+    margin: auto;
+    padding: auto;
+  
+    
+}
+.btn{
+    display: grid;
+    text-align: center;
+    margin: auto;
+    padding: 0.3rem 0.2rem 0.3rem 0.2rem;
+}
